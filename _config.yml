@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Krishnan Gosakan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Krishnan"
+description              : &description "Software Developer"
 url                      : https://krishnangosakan.github.io/KrishnanGosakan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KrishnanGosakan/KrishnanGosakan"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Krishnan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Software Developer"
+  location         : "Chennai"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "KrishnanGosakan"
   google_plus      :
   keybase          :
   instagram        :
