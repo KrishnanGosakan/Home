@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Krishnan Gosakan"
 title_separator          : "-"
 name                     : &name "Krishnan"
-description              : &description "Software Developer"
+description              : &description "CS PhD student"
 url                      : https://krishnangosakan.github.io/KrishnanGosakan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KrishnanGosakan/KrishnanGosakan"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Krishnan"
   avatar           : "krishnan.jpeg"
-  bio              : "Software Developer"
+  bio              : "CS PhD student"
   location         : "Chennai"
   employer         :
   pubmed           :
