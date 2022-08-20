@@ -2,15 +2,9 @@
 main:
   - title: "About Me"
     url: /about/
-    
-  - title: "Professional Experience"
-    url: /profex/
-    
+
   - title: "Research Interest"
     url: /res/
-    
-  - title: "Projects"
-    url: /proj/
 
   - title: "CV"
     url: /cv/
