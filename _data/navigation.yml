@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "Research Interest"
+  - title: "Research"
     url: /res/
 
   - title: "CV"
