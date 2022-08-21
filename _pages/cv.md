@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://krishnangosakan.github.io/KrishnanGosakan/files/resume.pdf" width="500" height="375" type="application/pdf">
+<embed src="https://krishnangosakan.github.io/KrishnanGosakan/files/KrishnanGosakan_Resume.pdf" width="500" height="375" type="application/pdf">
